@@ -1,5 +1,5 @@
 ## Autopilot
-This code helps in getting the steering angle of self driving car. The inspiraion is taken from [Udacity Self driving car](https://github.com/udacity/CarND-Behavioral-Cloning-P3) module as well [End to End Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/) module from NVIDIA
+This code helps in getting the steering angle of self driving car. The inspiration is taken from [Udacity Self driving car](https://github.com/udacity/CarND-Behavioral-Cloning-P3) module as well [End to End Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/) module from NVIDIA
 
 The End to End Learning for Self-Driving Cars research paper can be found at (https://arxiv.org/abs/1604.07316)
 This repository uses convnets to predict steering angle according to the road. 
@@ -19,8 +19,8 @@ Download the dataset at [here](https://github.com/SullyChen/driving-datasets) an
 
 ### Python  Implementation
 
-1) Network Used- Convolutional Network
-2) Inspiration - End to End Learning for Self-Driving Cars by Nvidia
+1) <h3>Network Used</h3>- Convolutional Network
+2) <h3>Inspiration</h3> - End to End Learning for Self-Driving Cars by Nvidia
 
 If you face any problem, kindly raise an issue
 
