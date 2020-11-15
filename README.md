@@ -4,8 +4,12 @@ This project helps in getting the angle of steering rotation in a self-driving c
 The End to End Learning for Self-Driving Cars research paper can be found at (https://arxiv.org/abs/1604.07316)
 This repository uses convnets to predict steering angle according to the road. 
 
+## Dataset
+You can download the dataset from this repository: https://github.com/SullyChen/driving-datasets
+
 ## Main Credits
 This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)
+Data format is as follows: filename.jpg angle,year-mm-dd hr:min:sec:millisec
 
 ##### Installation of Packages 
 Use `pip install -r requirements.txt` command to install packages in one go.
