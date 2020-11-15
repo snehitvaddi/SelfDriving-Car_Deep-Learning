@@ -4,7 +4,7 @@ This project helps in getting the angle of steering rotation in a self-driving c
 The End to End Learning for Self-Driving Cars research paper can be found at (https://arxiv.org/abs/1604.07316)
 This repository uses convnets to predict steering angle according to the road. 
 
-## Dataset
+#### Dataset
 You can download the dataset from this repository: https://github.com/SullyChen/driving-datasets
 
 ## Main Credits
@@ -20,6 +20,7 @@ An autonomous car (also known as a driverless car, self-driving car, and robotic
 
 ### Dataset
 Download the dataset at [here](https://github.com/SullyChen/driving-datasets) and extract into the repository folder
+Data format is as follows: `filename.jpg angle,year-mm-dd hr:min:sec:millisec`
 
 ### Python  Implementation
 
