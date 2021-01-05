@@ -2,6 +2,10 @@
 This project helps in getting the angle of steering rotation in a self-driving car. This project is inspired from [NVIDIA End to End Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/) and data is gathered from [Udacity's Behavioral Cloning repository](https://github.com/udacity/CarND-Behavioral-Cloning-P3). The End to End Learning for Self-Driving Cars research paper can be found at (https://arxiv.org/abs/1604.07316)
 This repository uses convnets to predict steering angle according to the road. 
 
+| 🗃 Dataset | 📑 Original Paper | 💡 Inspiration | 📌 Data Reference |
+|:-:|:-:|:-:|:-:|
+|[Dataset](https://github.com/SullyChen/driving-datasets)|[Paper](https://arxiv.org/abs/1604.07316)|[NVIDIA Self-driving](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)|[Udacity](https://github.com/udacity/CarND-Behavioral-Cloning-P3)|
+
 ### 🛠 Output
 <img src="https://github.com/akshaybahadur21/Autopilot/blob/master/v2.gif" width=700 height=400>
 
@@ -10,12 +14,12 @@ Download the dataset from (https://github.com/SullyChen/driving-datasets) and ex
 
 Data format is as follows: `filename.jpg angle,year-mm-dd hr:min:sec:millisec`
 
-### Procedure
+### 👉 Procedure
 Step-1: First, run `LoadData_V2.py` which will get dataset from folder and store it in a pickle file after preprocessing.
 Step-2: Now you need to have the data, run `Train_pilot.py` which will load data from pickle. After this, the training process begins.
 Step-3: For testing it on the video, run `AutopilotApp_V2.py`
 
-### ⚡ Main Credits
+### 🧠 Main Credits
 This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)
 Data format is as follows: filename.jpg angle,year-mm-dd hr:min:sec:millisec
 
@@ -35,7 +39,7 @@ If you face any problem, kindly raise an issue
 
 
 
-### References:
+### 🔗 References:
  
  - Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba. [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
  - [Behavioral Cloning Project](https://github.com/udacity/CarND-Behavioral-Cloning-P3) 
