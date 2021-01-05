@@ -21,6 +21,9 @@ Step-1: First, run `LoadData_V2.py` which will get dataset from folder and store
 Step-2: Now you need to have the data, run `Train_pilot.py` which will load data from pickle. After this, the training process begins.
 Step-3: For testing it on the video, run `AutopilotApp_V2.py`
 
+### 💡 Support
+Support my work my maring this repo with a <b>⭐ star</b>
+
 ### 🧠 Main Credits
 This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)
 Data format is as follows: filename.jpg angle,year-mm-dd hr:min:sec:millisec
