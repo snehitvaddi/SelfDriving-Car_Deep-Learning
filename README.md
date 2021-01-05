@@ -1,5 +1,5 @@
-## Project Autopilot
-Project helps in getting the angle of steering rotation in a self-driving car. This project is inspired from NVIDIA End to End Learning for Self-Driving Cars and data is gathered from Udacity's Behavioral Cloning repository. Officially written in Python3 and leveraged Keras for Deep Learning functions. 
+## Autopilot
+Project Autopilot helps in getting the angle of steering rotation in a self-driving car. This project is inspired from NVIDIA End to End Learning for Self-Driving Cars and data is gathered from Udacity's Behavioral Cloning repository. Officially written in Python3 and leveraged Keras for Deep Learning functions. 
 
 The End to End Learning for Self-Driving Cars research paper can be found at the below table.
 This repository uses convolutional Neural Networks to predict steering angle according to the road. 
