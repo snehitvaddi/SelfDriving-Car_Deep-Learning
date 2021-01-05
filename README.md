@@ -22,7 +22,7 @@ Step-2: Now you need to have the data, run `Train_pilot.py` which will load data
 Step-3: For testing it on the video, run `AutopilotApp_V2.py`
 
 ### 💡 Support
-Support my work my maring this repo with a <b>⭐ star</b>
+Support my work my marking this repo with a <b>"⭐ star"</b>
 
 ### 🧠 Main Credits
 This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)
