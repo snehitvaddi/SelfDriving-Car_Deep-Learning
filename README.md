@@ -1,11 +1,9 @@
 ### Project Autopilot
-This project helps in getting the angle of steering rotation in a self-driving car. This project is inspired from [NVIDIA End to End Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/) and data is gathered from [Udacity's Behavioral Cloning repository](https://github.com/udacity/CarND-Behavioral-Cloning-P3).
-
-The End to End Learning for Self-Driving Cars research paper can be found at (https://arxiv.org/abs/1604.07316)
+This project helps in getting the angle of steering rotation in a self-driving car. This project is inspired from [NVIDIA End to End Learning for Self-Driving Cars](https://devblogs.nvidia.com/deep-learning-self-driving-cars/) and data is gathered from [Udacity's Behavioral Cloning repository](https://github.com/udacity/CarND-Behavioral-Cloning-P3). The End to End Learning for Self-Driving Cars research paper can be found at (https://arxiv.org/abs/1604.07316)
 This repository uses convnets to predict steering angle according to the road. 
 
 ### 🛠 Output
-<img src="https://github.com/akshaybahadur21/Autopilot/blob/master/v2.gif">
+<img src="https://github.com/akshaybahadur21/Autopilot/blob/master/v2.gif" width=700 height=400>
 
 ### 🗃 Dataset
 Download the dataset from (https://github.com/SullyChen/driving-datasets) and extract into the repository folder.<br>
