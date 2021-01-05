@@ -30,7 +30,12 @@ Use `pip install -r requirements.txt` command to install packages in one go.
 You can also use conda to get rid of any version provblems.
 
 ### 📰 Generic Description
-An autonomous car (also known as a driverless car, self-driving car, and robotic car) is a vehicle that is capable of sensing its environment and navigating without human input. Autonomous cars combine a variety of techniques to perceive their surroundings, including radar, laser light, GPS, odometry, and computer vision. Advanced control systems interpret sensory information to identify appropriate navigation paths, as well as obstacles and relevant signage
+An autonomous car (also known as a driverless car, self-driving car, and robotic car) is a vehicle that is capable of sensing its environment and navigating without human input. Autonomous cars combine a variety of techniques to perceive their surroundings, including radar, laser light, GPS, odometry, and computer vision. Advanced control systems interpret sensory information to identify appropriate navigation paths, as well as obstacles and relevant signage.
+
+ ### 📢 Note:
+ If you have a specific request or have an idea of better implementation, ping me:<br>
+ @LinkedIn: [Connect](https://www.linkedin.com/in/snehitvaddi/)<br>
+ @Email: (v.snehith999@gmail.com) 
 
 ### Python Implementation
 
@@ -39,17 +44,11 @@ An autonomous car (also known as a driverless car, self-driving car, and robotic
 
 If you face any problem, kindly raise an issue
 
-
-
 ### 🔗 References:
- 
  - Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba. [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
  - [Behavioral Cloning Project](https://github.com/udacity/CarND-Behavioral-Cloning-P3) 
  - This implementation also took a lot of inspiration from the Sully Chen github repository: https://github.com/SullyChen/Autopilot-TensorFlow  
- 
- If you have a specific request or have an idea of better implementation ping me 
- @LinkedIn: [Connect](https://www.linkedin.com/in/snehitvaddi/)
- @Email: (v.snehith999@gmail.com) 
+
 
 
 
