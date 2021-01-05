@@ -34,7 +34,7 @@ An autonomous car (also known as a driverless car, self-driving car, and robotic
 
  ### 📢 Note:
  If you have a specific request or have an idea of better implementation, ping me:<br>
- @LinkedIn: [Connect](https://www.linkedin.com/in/snehitvaddi/)<br>
+ @LinkedIn: [Message Snehit Vaddi](https://www.linkedin.com/in/snehitvaddi/)<br>
  @Email: (v.snehith999@gmail.com) 
 
 ### Python Implementation
