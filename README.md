@@ -1,8 +1,8 @@
 ## Autopilot
-Project Autopilot helps in getting the angle of steering rotation in a self-driving car. This project is inspired from <b>NVIDIA End to End Learning for Self-Driving Cars</b> and data is gathered from <b>Udacity's Behavioral Cloning repository</b>. It is written in Python and leveraged Keras for Deep Learning functions. 
+Project Autopilot helps in getting the angle of steering rotation in a self-driving car. This project is inspired by <b>NVIDIA End to End Learning for Self-Driving Cars</b> and data is gathered from <b>Udacity's Behavioral Cloning repository</b>. It is written in Python and leveraged Keras for Deep Learning functions. 
 
-The End to End Learning for Self-Driving Cars research paper can be found at the below table.
-This repository uses convolutional Neural Networks to predict steering angle according to the road. 
+The End to End Learning for Self-Driving Cars research paper can be found in the below table.
+This repository uses Convolutional Neural Networks to predict steering angle according to the road. 
 
 | 🗃 Dataset | 📑 Original Paper | 💡 Inspiration | 📌 Data Reference |
 |:-:|:-:|:-:|:-:|
@@ -12,13 +12,13 @@ This repository uses convolutional Neural Networks to predict steering angle acc
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/final.gif" width=700 height=400>
 
 ### 🗃 Dataset
-Download the dataset from (https://github.com/SullyChen/driving-datasets) and extract into the repository folder.<br>
+Download the dataset from (https://github.com/SullyChen/driving-datasets) and extract it into the repository folder.<br>
 
 Data format is as follows: `filename.jpg angle,year-mm-dd hr:min:sec:millisec`
 
 ### 👉 Procedure
-Step-1: First, run `LoadData_V2.py` which will get dataset from folder and store it in a pickle file after preprocessing.<br>
-Step-2: Now you need to have the data, run `Train_pilot.py` which will load data from pickle. After this, the training process begins.<br>
+Step-1: First, run `LoadData_V2.py` which will get the dataset from the folder and store it in a pickle file after preprocessing.<br>
+Step-2: Now you need to have the data, run `Train_pilot.py` which will load data from the pickle. After this, the training process begins.<br>
 Step-3: For testing it on the video, run `AutopilotApp_V2.py`<br>
 
 ### 💡 Support
@@ -29,8 +29,8 @@ This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/
 Data format is as follows: filename.jpg angle,year-mm-dd hr:min:sec:millisec
 
 ### 📩 Packages Installation 
-Use `pip install -r requirements.txt` command to install packages in one go.
-You can also use conda to get rid of any version provblems.
+Use the `pip install -r requirements.txt` command to install packages in one go.
+You can also use conda to get rid of any version problems.
 
 ### 📰 Generic Description
 An autonomous car (also known as a driverless car, self-driving car, and robotic car) is a vehicle that is capable of sensing its environment and navigating without human input. Autonomous cars combine a variety of techniques to perceive their surroundings, including radar, laser light, GPS, odometry, and computer vision. Advanced control systems interpret sensory information to identify appropriate navigation paths, as well as obstacles and relevant signage.
