@@ -9,7 +9,7 @@ This repository uses convolutional Neural Networks to predict steering angle acc
 |[Dataset](https://github.com/SullyChen/driving-datasets)|[Paper](https://arxiv.org/abs/1604.07316)|[NVIDIA Self-driving](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)|[Udacity](https://github.com/udacity/CarND-Behavioral-Cloning-P3)|
 
 ### 🛠 Output
-<img src="https://github.com/akshaybahadur21/Autopilot/blob/master/v2.gif" width=700 height=400>
+<img src="https://github.com/akshaybahadur21/BLOB/blob/master/final.gif" width=700 height=400>
 
 ### 🗃 Dataset
 Download the dataset from (https://github.com/SullyChen/driving-datasets) and extract into the repository folder.<br>
