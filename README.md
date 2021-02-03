@@ -17,8 +17,8 @@ Download the dataset from (https://github.com/SullyChen/driving-datasets) and ex
 Data format is as follows: `filename.jpg angle,year-mm-dd hr:min:sec:millisec`
 
 ### 👉 Procedure
-Step-1: First, run `LoadData_V2.py` which will get the dataset from the folder and store it in a pickle file after preprocessing.<br>
-Step-2: Now you need to have the data, run `Train_pilot.py` which will load data from the pickle. After this, the training process begins.<br>
+Step-1: Run `LoadData_V2.py`. This will flow through the dataset and generates `labels` and `features` pickle files.<br>
+Step-2: After generating two files, run `Train_pilot.py` which will load pickle files. After this, the training process begins.<br>
 Step-3: For testing it on the video, run `AutopilotApp_V2.py`<br>
 
 ### 💡 Support
