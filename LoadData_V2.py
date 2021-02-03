@@ -24,8 +24,9 @@ def return_data():
 
     with open(TRAIN_FILE) as fp:
         for line in islice(fp, LIMIT):
-            path, angle = line.strip().split()
-            full_path = os.path.join(DATA_FOLDER, path)
+            path, angle, _ = line.strip().split(' ')
+            angle = angle.split(',')[0]
+            full_path = os.path.join(DATA_FOLDER, 'data\\'+path)
             X.append(full_path)
             # using angles from -pi to pi to avoid rescaling the atan in the network
             y.append(float(angle) * scipy.pi / 180)
