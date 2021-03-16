@@ -40,11 +40,6 @@ An autonomous car (also known as a driverless car, self-driving car, and robotic
  @LinkedIn: [Message Snehit Vaddi](https://www.linkedin.com/in/snehitvaddi/)<br>
  @Email: (v.snehith999@gmail.com) 
 
-### Python Implementation
-
-1) <h4>Network Used</h4>- <i>Convolutional Network</i>
-2) <h4>Inspiration</h4> - <i>End to End Learning for Self-Driving Cars by Nvidia</i>
-
 If you face any problem, kindly raise an issue
 
 ### 🔗 References:
