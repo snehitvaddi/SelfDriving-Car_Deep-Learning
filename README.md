@@ -26,7 +26,6 @@ Support my work my marking this repo with a <b>"⭐ star"</b>
 
 ### 🧠 Main Credits
 This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)
-Data format is as follows: filename.jpg angle,year-mm-dd hr:min:sec:millisec
 
 ### 📩 Packages Installation 
 Use the `pip install -r requirements.txt` command to install packages in one go.
