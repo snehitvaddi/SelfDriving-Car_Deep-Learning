@@ -37,7 +37,7 @@ An autonomous car (also known as a driverless car, self-driving car, and robotic
 
  ### 📢 Note:
  If you have a specific request or have an idea of better implementation, ping me:<br>
-<b>@LinkedIn:</b> [Message Snehit Vaddi](https://www.linkedin.com/in/snehitvaddi/)<br>
+<b>@LinkedIn:</b> [Snehit Vaddi](https://www.linkedin.com/in/snehitvaddi/)<br>
 <b>@Email:</b> (v.snehith999@gmail.com) 
 
 <br>
