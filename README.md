@@ -16,6 +16,9 @@ Download the dataset from (https://github.com/SullyChen/driving-datasets) and ex
 
 Data format is as follows: `filename.jpg angle,year-mm-dd hr:min:sec:millisec`
 
+### 📰 Generic Description
+An autonomous car (also known as a driverless car, self-driving car, and robotic car) is a vehicle that is capable of sensing its environment and navigating without human input. Autonomous cars combine a variety of techniques to perceive their surroundings, including radar, laser light, GPS, odometry, and computer vision. Advanced control systems interpret sensory information to identify appropriate navigation paths, as well as obstacles and relevant signage.
+
 ### 👉 Procedure
 Step-1: Run `LoadData_V2.py`. This will flow through the dataset and generates `labels` and `features` pickle files.<br>
 Step-2: After generating two files, run `Train_pilot.py` which will load pickle files. After this, the training process begins.<br>
@@ -30,9 +33,6 @@ This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/
 ### 📩 Packages Installation 
 Use the `pip install -r requirements.txt` command to install packages in one go.
 You can also use conda to get rid of any version problems.
-
-### 📰 Generic Description
-An autonomous car (also known as a driverless car, self-driving car, and robotic car) is a vehicle that is capable of sensing its environment and navigating without human input. Autonomous cars combine a variety of techniques to perceive their surroundings, including radar, laser light, GPS, odometry, and computer vision. Advanced control systems interpret sensory information to identify appropriate navigation paths, as well as obstacles and relevant signage.
 
  ### 📢 Note:
  If you have a specific request or have an idea of better implementation, ping me:<br>
