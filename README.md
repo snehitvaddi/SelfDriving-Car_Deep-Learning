@@ -4,12 +4,12 @@ Project Autopilot helps in getting the angle of steering rotation in a self-driv
 The End to End Learning for Self-Driving Cars research paper can be found in the below table.
 This repository uses Convolutional Neural Networks to predict steering angle according to the road. 
 
-### 🧠 Main Credits
-**This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)**
-
 | 🗃 Dataset | 📑 Original Paper | 💡 Inspiration | 📌 Data Reference |
 |:-:|:-:|:-:|:-:|
 |[Dataset](https://github.com/SullyChen/driving-datasets)|[Paper](https://arxiv.org/abs/1604.07316)|[NVIDIA Self-driving](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)|[Udacity](https://github.com/udacity/CarND-Behavioral-Cloning-P3)|
+
+### 🧠 Main Credits
+**This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)**
 
 ### 🛠 Output
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/final.gif" width=700 height=400>
