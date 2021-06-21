@@ -9,7 +9,7 @@ This repository uses Convolutional Neural Networks to predict steering angle acc
 |[Dataset](https://github.com/SullyChen/driving-datasets)|[Paper](https://arxiv.org/abs/1604.07316)|[NVIDIA Self-driving](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)|[Udacity](https://github.com/udacity/CarND-Behavioral-Cloning-P3)|
 
 #### Note: 
-**I have made implementation code `AutopilotApp_V2.py` private to avoid misuse, contact me @v.snehith999@gmail.com for complete directory ✌**
+**I have made implementation code `AutopilotApp_V2.py` private to avoid misuse, feel free to contact me @v.snehith999@gmail.com for complete directory ✌**
 
 ### 🧠 Main Credits
 **This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)**
@@ -26,8 +26,7 @@ Data format is as follows: `filename.jpg angle,year-mm-dd hr:min:sec:millisec`
 Step-1: Run `LoadData_V2.py`. This will flow through the dataset and generates `labels` and `features` pickle files.<br>
 Step-2: After generating two files, run `Train_pilot.py` which will load pickle files. After this, the training process begins.<br>
 Step-3: For testing it on the video, run `AutopilotApp_V2.py`<br>
-#### Note
-**I have made implementation code `AutopilotApp_V2.py` private to avoid misuse, contact me @v.snehith999@gmail.com for complete directory ✌**
+**I have made `AutopilotApp_V2.py` private to avoid misuse, feel free to contact me @v.snehith999@gmail.com for complete directory ✌**
 
 ### 💡 Support
 Support my work my marking this repo with a <b>"⭐ star"</b>
