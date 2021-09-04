@@ -9,7 +9,8 @@ This repository uses Convolutional Neural Networks to predict steering angle acc
 |[Dataset](https://github.com/SullyChen/driving-datasets)|[Paper](https://arxiv.org/abs/1604.07316)|[NVIDIA Self-driving](https://devblogs.nvidia.com/deep-learning-self-driving-cars/)|[Udacity](https://github.com/udacity/CarND-Behavioral-Cloning-P3)|
 
 #### Note: 
-**I have made implementation code `AutopilotApp_V2.py` private to avoid misuse, feel free to contact me @v.snehith999@gmail.com for complete directory ✌**
+💡 **I have made implementation code `AutopilotApp_V2.py` private to avoid misuse, feel free to contact me @v.snehith999@gmail.com for complete directory ✌**<br>
+🔑 **If you're looking any Btech/Mtech/Academic projects? Ping me, I have a bunch**
 
 ### 🧠 Main Credits
 **This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)**
