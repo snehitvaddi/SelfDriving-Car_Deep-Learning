@@ -13,7 +13,7 @@ This repository uses Convolutional Neural Networks to predict steering angle acc
 🔑 **If you're looking any Btech/Mtech/Academic projects? Ping me, I have a bunch**
 
 ### 🧠 Main Credits
-**This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21/Autopilot/tree/master/Autopilot_V2)**
+**This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21)**
 
 ### 🛠 Output
 <img src="https://github.com/akshaybahadur21/BLOB/blob/master/final.gif" width=700 height=400>
