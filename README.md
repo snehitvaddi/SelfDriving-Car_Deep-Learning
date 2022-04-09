@@ -16,7 +16,7 @@ This repository uses Convolutional Neural Networks to predict steering angle acc
 **This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21)**
 
 ### 🛠 Output
-<img src="https://github.com/akshaybahadur21/BLOB/blob/master/final.gif" width=700 height=400>
+<img src="" width=700 height=400>
 
 ### 🗃 Dataset
 Download the dataset from (https://github.com/SullyChen/driving-datasets) and extract it into the repository folder.<br>
