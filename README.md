@@ -13,7 +13,7 @@ This repository uses Convolutional Neural Networks to predict steering angle acc
 🔑 **If you're looking any Btech/Mtech/Academic projects? Ping me, I have a bunch**
 
 ### 🧠 Main Credits
-**This repo is whole and sole referenced from [Akshay Bahadur](https://github.com/akshaybahadur21)**
+**This repo is whole and sole referenced from [Pavankumar Hegde](https://github.com/Pavankumar-Hegde)**
 
 ### 🛠 Output
 <img src="https://github.com/snehitvaddi/SelfDriving-Car_Deep-Learning/blob/master/Selfdriving-output.gif" width="300" height="300">
@@ -40,18 +40,7 @@ An autonomous car (also known as a driverless car, self-driving car, and robotic
 Use the `pip install -r requirements.txt` command to install packages in one go.
 You can also use conda to get rid of any version problems.
 
- ### 📢 Note:
- If you have a specific request or have an idea of better implementation, ping me:<br>
-<b>@LinkedIn:</b> [Snehit Vaddi](https://www.linkedin.com/in/snehitvaddi/)<br>
-<b>@Email:</b> (v.snehith999@gmail.com) 
-
-<br>
-If you face any problem, kindly raise an issue
-
-### 🔗 References:
- - Mariusz Bojarski, Davide Del Testa, Daniel Dworakowski, Bernhard Firner, Beat Flepp, Prasoon Goyal, Lawrence D. Jackel, Mathew Monfort, Urs Muller, Jiakai Zhang, Xin Zhang, Jake Zhao, Karol Zieba. [End to End Learning for Self-Driving Cars](https://arxiv.org/abs/1604.07316)
- - [Behavioral Cloning Project](https://github.com/udacity/CarND-Behavioral-Cloning-P3) 
- - This implementation also took a lot of inspiration from the Sully Chen github repository: https://github.com/SullyChen/Autopilot-TensorFlow  
+  
 
 
 
